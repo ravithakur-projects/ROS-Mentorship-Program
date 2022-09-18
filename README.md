@@ -1,4 +1,4 @@
-# ROS-Mentorship-Program
+# ROS Three Wheeled Robot Navigation Project
 ## The steps involved in this project have been described in detail as follows:-
 
 1. **Modeling in fusion 360 and Converting into URDF file to run in GAZEBO simulator.**

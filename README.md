@@ -38,7 +38,7 @@ This exports:
 
 ### **Gazebo simulation of exported .urdf and .launch**
 
-![Screenshot from 2022-09-17 19-49-37.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6675827-0603-4f98-a1bc-861f62ae02dd/Screenshot_from_2022-09-17_19-49-37.png)
+![image](https://user-images.githubusercontent.com/101028751/192140699-0ff8a9b8-8446-42cc-8278-f7e041d5b898.png)
 
 ### Information about the plugin
 
@@ -281,7 +281,7 @@ Reference:   [Gazebo plugins in ROS](http://gazebosim.org/tutorials?tut=ros_gzpl
 SLAM stands for Simultaneous Localization and Mapping.
 The problem statement stands to construct a map of an unknown environment while traversing through it and keeping track of the robot's current location with respect to the articulated environment. SLAM is widely used in self-driving cars, unmanned aerial vehicles, autonomous underwater vehicles, planetary rovers, etc.
 
-![Screenshot from 2022-09-17 19-53-02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa43f47b-20fd-4d46-9e90-788221300af3/Screenshot_from_2022-09-17_19-53-02.png)
+![image](https://user-images.githubusercontent.com/101028751/192140741-496474a9-17fb-4ac6-8308-187494f078d7.png)
 
 ### Terminologies
 
@@ -411,11 +411,11 @@ One such approach is discussed here where a Nav Stack is created using various t
 
 **RQT graph** 
 
-![rosgraph.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbb40417-f349-4734-947b-56ba038e0e94/rosgraph.png)
+![image](https://user-images.githubusercontent.com/101028751/192140762-6351bc87-90d1-4753-b4d1-0223ee759e23.png)
 
 ### Terminologies
 
-![Screenshot from 2022-09-17 19-57-00.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2017fb6-3e62-4da5-9fc9-25f942388547/Screenshot_from_2022-09-17_19-57-00.png)
+![image](https://user-images.githubusercontent.com/101028751/192140765-e7971fe1-97b8-4620-b2b7-e67aef741c80.png)
 
 <aside>
 💡 **AMCL**
@@ -527,7 +527,8 @@ The move_base package is essentially an action server implementation that attemp
 
 ### Implementing Autonomous Navigation
 
-![Screenshot from 2022-09-17 19-54-42.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9f853d4-eadf-4de8-9b30-b29fc872e150/Screenshot_from_2022-09-17_19-54-42.png)
+![image](https://user-images.githubusercontent.com/101028751/192140777-c0ef84db-fada-4734-8c2d-0feb62872be6.png)
+
 
 - Start the **gazebo.launch** file
     

@@ -34,7 +34,7 @@ This exports:
 
 ### **original model**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c85a2b54-856b-4642-b6c0-a524c8a160f7/Untitled.png)
+![image](https://user-images.githubusercontent.com/101028751/192140667-8650cdf8-99de-426e-9b2c-1c33121a3aa2.png)
 
 ### **Gazebo simulation of exported .urdf and .launch**
 
